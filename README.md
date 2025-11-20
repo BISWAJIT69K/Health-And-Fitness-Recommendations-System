@@ -34,15 +34,7 @@ We use a dataset with the following columns:
 
 ## 🧪 Setup Instructions
 
-1. Clone this repository or download files
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Open and run the notebook:
-   ```bash
-   jupyter notebook fitness_recomendation_system.ipynb
-   ```
+* it's runnable on Google Colab
 
 ## 🛠️ Usage
 - Modify the last section of the notebook to input your own data.
